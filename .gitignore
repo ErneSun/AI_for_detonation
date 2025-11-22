@@ -1,0 +1,123 @@
+# ============================
+# macOS 系统垃圾
+# ============================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+*.icloud
+
+# ============================
+# Python
+# ============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# 虚拟环境
+venv/
+.venv/
+ENV/
+env/
+pip-wheel-metadata/
+*.egg-info/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+jupyter_cache/
+*.ipynb_convert
+
+# C/C++ / 编译缓存
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.log
+
+# ============================
+# OpenFOAM 相关
+# ============================
+*/processor*/        # 并行分区
+*/constant/polyMesh/ # 自动生成网格（如 blockMesh 会重建）
+*/postProcessing/
+*/logs/
+*/0.orig/
+*/backup*/
+*.OpenFOAM
+*.foam
+*.vtk
+*.vtu
+*.csv
+
+# ============================
+# VSCode / PyCharm
+# ============================
+.vscode/
+.idea/
+
+# ============================
+# 临时文件 / 备份
+# ============================
+*.tmp
+*.temp
+*~
+*.bak
+*.swp
+*.swo
+
+# ============================
+# 压缩文件（通常不放进 repo）
+# ============================
+*.zip
+*.tar
+*.gz
+*.7z
+
+# ============================
+# 数据集（要放请手动解除）
+# ============================
+*.mat
+*.h5
+*.npy
+*.npz
+*.dat
+*.raw
+*.bin
+
+# ============================
+# 图像/视频缓存（如爆轰视频/图片可选忽略）
+# ============================
+*.mp4
+*.avi
+*.mov
+*.png
+*.jpg
+*.jpeg
+*.tiff
+
+# ============================
+# Latex / 论文写作
+# ============================
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.toc
+*.dvi
+*.synctex.gz
+*.fdb_latexmk
+*.out
+*.bbl
+*.blg
+
