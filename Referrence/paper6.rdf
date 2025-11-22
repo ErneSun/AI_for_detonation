@@ -1,0 +1,1337 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Thesis rdf:about="#item_4257">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>West Virginia University</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>May</foaf:surname>
+                        <foaf:givenName>Kristyn B Johnson</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4270"/>
+        <dc:title>Combustion Feature Characterization using Computer Vision Diagnostics within Rotating Detonation Combustors</dc:title>
+        <dc:date>2022</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_4270">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4270/May - Combustion Feature Characterization using Computer Vision Diagnostics within Rotating Detonation Com.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_4265">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>45</prism:volume>
+                <dc:title>爆炸与冲击</dc:title>
+                <dc:identifier>DOI 10.11883/bzycj-2024-0099</dc:identifier>
+                <prism:number>5</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>柏劲松</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>刘洋</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>陈翰</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>钟敏</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4271"/>
+        <dc:title>端到端机器学习代理模型构建及其在爆轰驱动问题中的应用</dc:title>
+        <dc:date>05/2025</dc:date>
+        <bib:pages>1-12</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_4271">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4271/Construction of end-to-end machine learning surrogate model and its application in detonation drivin.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://arc.aiaa.org/doi/10.2514/6.2025-1188">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>AIAA SCITECH 2025 Forum</dc:title>
+                <dc:identifier>DOI 10.2514/6.2025-1188</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Orlando, FL</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>American Institute of Aeronautics and Astronautics</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weber</foaf:surname>
+                        <foaf:givenName>Justin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johnson</foaf:surname>
+                        <foaf:givenName>Kristyn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boyette</foaf:surname>
+                        <foaf:givenName>Wesley R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ferguson</foaf:surname>
+                        <foaf:givenName>Donald H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4272"/>
+        <dc:title>Global Evaluation of Process Conditions and Corresponding Wave Modes in a Rotating Detonation Engine</dc:title>
+        <dc:date>2025-01-06</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arc.aiaa.org/doi/10.2514/6.2025-1188</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-07 07:02:38</dcterms:dateSubmitted>
+        <bib:presentedAt>
+            <bib:Conference>
+               <dc:title>AIAA SCITECH 2025 Forum</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_4272">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4272/Weber 等 - 2025 - Global Evaluation of Process Conditions and Corresponding Wave Modes in a Rotating Detonation Engine.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://arc.aiaa.org/doi/10.2514/1.J064228">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0001-1452,%201533-385X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Camacho</foaf:surname>
+                        <foaf:givenName>Ryan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Cheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4274"/>
+        <dc:title>Investigations on Projection-Based Reduced-Order Model Development for Rotating Detonation Engine</dc:title>
+        <dcterms:abstract>The current study aims to evaluate and investigate the development of projection-based reduced-order models (ROMs) for efficient and accurate rotating detonation engine (RDE) simulations. Specifically, we focus on assessing the projection-based ROM construction utilizing three different approaches: the linear static basis, the nonlinear quadratic basis, and an adaptive model order reduction (MOR) formulation. First, an a priori analysis is performed to evaluate the effectiveness of the linear static and nonlinear quadratic bases in representing the detonation wave dynamics. The a priori analysis reveals that, compared to the linear basis, the nonlinear quadratic basis provides significantly improved representation of detonation wave dynamics within the training regime. However, it exhibits limited capabilities in representing the dynamics beyond the training regime, either in the future state or under a different operating parameter (i.e., inlet velocity). Second, the investigations proceed to the adaptive MOR formulation, which constructs an online adaptive ROM with a small amount of offline training data. It is demonstrated that the adaptive ROM can provide significantly enhanced predictive capabilities in modeling the RDE dynamics in the future state and subject to parametric variations. More importantly, the adaptive ROM is shown to be capable of capturing the initial transience in establishing the detonation wave.</dcterms:abstract>
+        <dc:date>03/2025</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arc.aiaa.org/doi/10.2514/1.J064228</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-07 07:02:20</dcterms:dateSubmitted>
+        <dc:description>Publisher: American Institute of Aeronautics and Astronautics (AIAA)</dc:description>
+        <bib:pages>854-869</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0001-1452,%201533-385X">
+        <prism:volume>63</prism:volume>
+        <dc:title>AIAA Journal</dc:title>
+        <dc:identifier>DOI 10.2514/1.j064228</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 0001-1452, 1533-385X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_4274">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4274/Camacho和Huang - 2025 - Investigations on Projection-Based Reduced-Order Model Development for Rotating Detonation Engine.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S209549562400740X">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2095-4956"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Wei-Hong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Qi-Jun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Fu-Sheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Zheng-Tang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4275"/>
+        <dc:title>Machine learning approaches for predicting impact sensitivity and detonation performances of energetic materials</dc:title>
+        <dcterms:abstract>Excellent detonation performances and low sensitivity are prerequisites for the deployment of energetic materials. Exploring the underlying factors that affect impact sensitivity and detonation performances as well as exploring how to obtain materials with desired properties remains a long-term challenge. Machine learning with its ability to solve complex tasks and perform robust data processing can reveal the relationship between performance and descriptive indicators, potentially accelerating the development process of energetic materials. In this background, impact sensitivity, detonation performances, and 28 physicochemical parameters for 222 energetic materials from density functional theory calculations and published literature were sorted out. Four machine learning algorithms were employed to predict various properties of energetic materials, including impact sensitivity, detonation velocity, detonation pressure, and Gurney energy. Analysis of Pearson coefﬁcients and feature importance showed that the heat of explosion, oxygen balance, decomposition products, and HOMO energy levels have a strong correlation with the impact sensitivity of energetic materials. Oxygen balance, decomposition products, and density have a strong correlation with detonation performances. Utilizing impact sensitivity of 2,3,4-trinitrotoluene and the detonation performances of 2,4,6-trinitrobenzene-1,3,5-triamine as the benchmark, the analysis of feature importance rankings and statistical data revealed the optimal range of key features balancing impact sensitivity and detonation performances: oxygen balance values should be between 40% and 30%, density should range from 1.66 to 1.72 g/cm3, HOMO energy levels should be between 6.34 and 6.31 eV, and lipophilicity should be between 1.0 and 0.1, 4.49 and 5.59. These ﬁndings not only offer important insights into the impact sensitivity and detonation performances of energetic materials, but also provide a theoretical guidance paradigm for the design and development of new energetic materials with optimal detonation performances and reduced sensitivity.</dcterms:abstract>
+        <dc:date>03/2025</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S209549562400740X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-07 07:02:12</dcterms:dateSubmitted>
+        <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
+        <dc:description>Publisher: Elsevier BV</dc:description>
+        <bib:pages>161-171</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2095-4956">
+        <prism:volume>102</prism:volume>
+        <dc:title>Journal of Energy Chemistry</dc:title>
+        <dc:identifier>DOI 10.1016/j.jechem.2024.10.035</dc:identifier>
+        <dc:identifier>ISSN 2095-4956</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_4275">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4275/Liu 等 - 2025 - Machine learning approaches for predicting impact sensitivity and detonation performances of energet.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_4315">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brownlee</foaf:surname>
+                        <foaf:givenName>Jason</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4347"/>
+        <dc:title>Deep Learning for Time Series Forecasting</dc:title>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_4347">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4347/Brownlee - Deep Learning for Time Series Forecasting.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0098135423004301">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0098-1354"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Iqbal</foaf:surname>
+                        <foaf:givenName>Amjad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amin</foaf:surname>
+                        <foaf:givenName>Rashid</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4345"/>
+        <dc:title>Time series forecasting and anomaly detection using deep learning</dc:title>
+        <dcterms:abstract>Recent advances in time series forecasting and anomaly detection have been attributed to the growing popularity of deep learning approaches. Traditional methods, such as rule-based systems and statistical techniques, have limitations when applied to complex and dynamic real-world data. This study investigates using various deep learning models for anomaly detection, recognising aberrant patterns in data, and time series forecasting. The performance of the proposed models is evaluated on benchmarks like the Numenta Anomaly Benchmark (NAB) corpus and credit card fraud detection, showing their ability to detect aberrant patterns in various scenarios. Preprocessing strategies, such as normalisation and feature scaling, play a significant role in both time series forecasting and anomaly detection. In addition, the paper proposes a statistical method for selecting different or more important features from a dataset to overcome the limitations of high-dimensional sequencing data. In many ways, the suggested feature selection technique outperforms previous solutions. It keeps the original meanings of the attributes while selecting those with statistical relevance. Furthermore, it is computationally efficient and successfully solves the problem of excessive dimensions. Overall, deep learning approaches for time series forecasting and anomaly detection are promising in banking, healthcare, and manufacturing industries.</dcterms:abstract>
+        <dc:date>03/2024</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0098135423004301</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-13 02:40:57</dcterms:dateSubmitted>
+        <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
+        <dc:description>Publisher: Elsevier BV</dc:description>
+        <bib:pages>108560</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0098-1354">
+        <prism:volume>182</prism:volume>
+        <dc:title>Computers &amp; Chemical Engineering</dc:title>
+        <dc:identifier>DOI 10.1016/j.compchemeng.2023.108560</dc:identifier>
+        <dc:identifier>ISSN 0098-1354</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_4345">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4345/Iqbal和Amin - 2024 - Time series forecasting and anomaly detection using deep learning.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://link.springer.com/10.1007/s13042-025-02560-w">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1868-8071,%201868-808X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kong</foaf:surname>
+                        <foaf:givenName>Xiangjie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Zhenghao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Weiyao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ning</foaf:surname>
+                        <foaf:givenName>Kaili</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Lechao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Muhammad Marier</foaf:surname>
+                        <foaf:givenName>Syauqie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Yichen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Yuhao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xia</foaf:surname>
+                        <foaf:givenName>Feng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4346"/>
+        <dc:title>Deep learning for time series forecasting: a survey</dc:title>
+        <dcterms:abstract>Time series forecasting (TSF) has long been a crucial task in both industry and daily life. Most classical statistical models may have certain limitations when applied to practical scenarios in fields such as energy, healthcare, traffic, meteorology, and economics, especially when high accuracy is required. With the continuous development of deep learning, numerous new models have emerged in the field of time series forecasting in recent years. However, existing surveys have not provided a unified summary of the wide range of model architectures in this field, nor have they given detailed summaries of works in feature extraction and datasets. To address this gap, in this review, we comprehensively study the previous works and summarize the general paradigms of Deep Time Series Forecasting (DTSF) in terms of model architectures. Besides, we take an innovative approach by focusing on the composition of time series and systematically explain important feature extraction methods. Additionally, we provide an overall compilation of datasets from various domains in existing works. Finally, we systematically emphasize the significant challenges faced and future research directions in this field.</dcterms:abstract>
+        <dc:date>2025-02-08</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Deep learning for time series forecasting</z:shortTitle>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/10.1007/s13042-025-02560-w</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-13 02:40:54</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+        <dc:description>Publisher: Springer Science and Business Media LLC</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1868-8071,%201868-808X">
+        <dc:title>International Journal of Machine Learning and Cybernetics</dc:title>
+        <dc:identifier>DOI 10.1007/s13042-025-02560-w</dc:identifier>
+        <dcterms:alternative>Int. J. Mach. Learn. &amp; Cyber.</dcterms:alternative>
+        <dc:identifier>ISSN 1868-8071, 1868-808X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_4346">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4346/Kong 等 - 2025 - Deep learning for time series forecasting a survey.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.aip.org/rsi/article/90/6/065106/360271/Automated-image-processing-method-to-quantify">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0034-6748,%201089-7623"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bennewitz</foaf:surname>
+                        <foaf:givenName>J. W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bigler</foaf:surname>
+                        <foaf:givenName>B. R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schumaker</foaf:surname>
+                        <foaf:givenName>S. A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hargus</foaf:surname>
+                        <foaf:givenName>W. A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4365"/>
+        <dc:title>Automated image processing method to quantify rotating detonation wave behavior</dc:title>
+        <dcterms:abstract>An image processing technique is developed to automatically determine both average and instantaneous detonation wave properties within a rotating detonation rocket engine (RDRE) using high-speed imaging. This method entails segmenting the imaged RDRE annulus into 200 azimuthal bins and tracking integrated pixel intensity in each bin. By combining individual pixel intensity temporal histories across the azimuthal bins, this provides what is termed a detonation surface that visualizes the propagation of the individual detonation fronts azimuthally around the annulus. Average detonation modal properties including wave speed Ūwv, operational frequency fdet, and the number of waves m are determined automatically through a two-dimensional Fourier analysis of the detonation surface data. Also, instantaneous wave speeds Uwv for each individual detonation are determined by taking the numerical derivative of each waves’ angular position temporal history from the detonation surface. This provides useful insight into wave-to-wave variability for an operating condition, as well as denoting modal transitions and mode stability. For the flow conditions investigated, the number of waves ranges from 2 to 14, with Ūwv varying between 900 and 1700 m/s, corresponding to 33%–71% of the ideal Chapman-Jouguet detonation speed; these modes exhibit an operational frequency of 20–45 kHz, with an average of 40 kHz. Overall, these measurements advance the understanding of RDRE’s and may lead to performance gains above those achievable from constant pressure engines.</dcterms:abstract>
+        <dc:date>2019-06-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.aip.org/rsi/article/90/6/065106/360271/Automated-image-processing-method-to-quantify</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-08 03:15:51</dcterms:dateSubmitted>
+        <dc:description>Publisher: AIP Publishing</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0034-6748,%201089-7623">
+        <prism:volume>90</prism:volume>
+        <dc:title>Review of Scientific Instruments</dc:title>
+        <dc:identifier>DOI 10.1063/1.5067256</dc:identifier>
+        <prism:number>6</prism:number>
+        <dc:identifier>ISSN 0034-6748, 1089-7623</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_4365">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4365/Bennewitz 等 - 2019 - Automated image processing method to quantify rotating detonation wave behavior.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-1-4842-6167-5%20978-1-4842-6168-2">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berkeley, CA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Apress</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Koonce</foaf:surname>
+                        <foaf:givenName>Brett</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4264"/>
+        <dc:title>Convolutional Neural Networks with Swift for Tensorflow: Image Recognition and Dataset Categorization</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Convolutional Neural Networks with Swift for Tensorflow</z:shortTitle>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/978-1-4842-6168-2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-08 02:48:24</dcterms:dateSubmitted>
+        <dc:rights>http://www.springer.com/tdm</dc:rights>
+        <dc:description>DOI: 10.1007/978-1-4842-6168-2</dc:description>
+        <dc:identifier>ISBN 978-1-4842-6167-5 978-1-4842-6168-2</dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_4264">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4264/Koonce - 2021 - Convolutional Neural Networks with Swift for Tensorflow Image Recognition and Dataset Categorizatio.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://arc.aiaa.org/doi/10.2514/6.2022-2371">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>AIAA SCITECH 2022 Forum</dc:title>
+                <dc:identifier>DOI 10.2514/6.2022-2371</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>San Diego, CA &amp; Virtual</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>American Institute of Aeronautics and Astronautics</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johnson</foaf:surname>
+                        <foaf:givenName>Kristyn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ferguson</foaf:surname>
+                        <foaf:givenName>Donald H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nix</foaf:surname>
+                        <foaf:givenName>Andrew C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4260"/>
+        <dc:title>Time Series Classification within a Rotating Detonation Engine through Deep Convolutional Neural Networks applied to High-Speed Pressure Data</dc:title>
+        <dc:date>2022-01-03</dc:date>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arc.aiaa.org/doi/10.2514/6.2022-2371</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-08 02:46:54</dcterms:dateSubmitted>
+        <bib:presentedAt>
+            <bib:Conference>
+               <dc:title>AIAA SCITECH 2022 Forum</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_4260">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4260/Johnson 等 - 2022 - Time Series Classification within a Rotating Detonation Engine through Deep Convolutional Neural Net.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://arc.aiaa.org/doi/10.2514/1.B38960">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0748-4658,%201533-3876"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johnson</foaf:surname>
+                        <foaf:givenName>Kristyn B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ferguson</foaf:surname>
+                        <foaf:givenName>Donald H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nix</foaf:surname>
+                        <foaf:givenName>Andrew C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tallman</foaf:surname>
+                        <foaf:givenName>Zachary</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4259"/>
+        <dc:title>Wave Detection and Tracking Within a Rotating Detonation Engine Through Object Detection</dc:title>
+        <dcterms:abstract>As the operational time window of experimental rotating detonation engines (RDEs) is expanded and the technology matures toward integration within gas turbines, monitoring techniques must evolve to offer computationally efficient and highly time-resolved diagnostics. A computer vision object detection methodology that seeks to reduce data processing time and calculate wave velocity within drastically reduced time intervals as compared to traditional high-frame-rate RDE images analysis techniques is proposed. The adapted you-only-look-once object detection network is trained to detect individual detonation waves within single down-axis RDE images. The wave location and rotational direction detected within a frame are tracked through a series of high-speed images to calculate the frame-to-frame wave velocity with the time-step resolution of [Formula: see text] across a series of frames. The analysis of the annotation box size and image linearization effects is presented, demonstrating the lowest frame-to-frame velocity total uncertainty of [Formula: see text] and the highest classification speed of 9.5 frames per second using linearized images. Linearized images “unwrap” the RDE annulus pixel region to a reduced image size. This new method offers great reductions in data processing times and unsteady detonation behavior insight at intervals more comparable to the timescales of detonation wave interactions via the application of machine learning to experimental RDE data.</dcterms:abstract>
+        <dc:date>07/2023</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arc.aiaa.org/doi/10.2514/1.B38960</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-08 02:46:24</dcterms:dateSubmitted>
+        <dc:rights>https://www.aiaa.org/userlicenses/1.0/#CompEndUserLicense</dc:rights>
+        <dc:description>Publisher: American Institute of Aeronautics and Astronautics (AIAA)</dc:description>
+        <bib:pages>612-625</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0748-4658,%201533-3876">
+        <prism:volume>39</prism:volume>
+        <dc:title>Journal of Propulsion and Power</dc:title>
+        <dc:identifier>DOI 10.2514/1.b38960</dc:identifier>
+        <prism:number>4</prism:number>
+        <dc:identifier>ISSN 0748-4658, 1533-3876</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_4259">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4259/Johnson 等 - 2023 - Wave Detection and Tracking Within a Rotating Detonation Engine Through Object Detection.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://asmedigitalcollection.asme.org/thermalscienceapplication/article/13/6/061021/1096688/Application-of-a-Convolutional-Neural-Network-for">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1948-5085,%201948-5093"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johnson</foaf:surname>
+                        <foaf:givenName>Kristyn B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ferguson</foaf:surname>
+                        <foaf:givenName>Donald H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tempke</foaf:surname>
+                        <foaf:givenName>Robert S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nix</foaf:surname>
+                        <foaf:givenName>Andrew C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4258"/>
+        <dc:title>Application of a Convolutional Neural Network for Wave Mode Identification in a Rotating Detonation Combustor Using High-Speed Imaging</dc:title>
+        <dcterms:abstract>Abstract               Utilizing a neural network, individual down-axis images of combustion waves in the rotating detonation engine (RDE) can be classified according to the number of detonation waves present and their directional behavior. While the ability to identify the number of waves present within individual images might be intuitive, the further classification of wave rotational direction is a result of the detonation wave’s profile, which suggests its angular direction of movement. The application of deep learning is highly adaptive and, therefore, can be trained for a variety of image collection methods across RDE study platforms. In this study, a supervised approach is employed where a series of manually classified images is provided to a neural network for the purpose of optimizing the classification performance of the network. These images, referred to as the training set, are individually labeled as one of ten modes present in an experimental RDE. Possible classifications include deflagration, clockwise and counterclockwise variants of co-rotational detonation waves with quantities ranging from one to three waves, as well as single, double, and triple counter-rotating detonation waves. After training the network, a second set of manually classified images, referred to as the validation set, is used to evaluate the performance of the model. The ability to predict the detonation wave mode in a single image using a trained neural network substantially reduces computational complexity by circumnavigating the need to evaluate the temporal behavior of individual pixel regions throughout time. Results suggest that while image quality is critical, it is possible to accurately identify the modal behavior of detonation waves based on only a single image rather than a sequence of images or signal processing. Successful identification of wave behavior using image classification serves as a steppingstone for further machine learning integration in RDE research and development of comprehensive real-time diagnostics.</dcterms:abstract>
+        <dc:date>2021-12-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://asmedigitalcollection.asme.org/thermalscienceapplication/article/13/6/061021/1096688/Application-of-a-Convolutional-Neural-Network-for</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-08 02:45:58</dcterms:dateSubmitted>
+        <dc:rights>https://www.asme.org/publications-submissions/publishing-information/legal-policies</dc:rights>
+        <dc:description>Publisher: ASME International</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1948-5085,%201948-5093">
+        <prism:volume>13</prism:volume>
+        <dc:title>Journal of Thermal Science and Engineering Applications</dc:title>
+        <dc:identifier>DOI 10.1115/1.4049868</dc:identifier>
+        <prism:number>6</prism:number>
+        <dc:identifier>ISSN 1948-5085, 1948-5093</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_4258">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4258/Johnson 等 - 2021 - Application of a Convolutional Neural Network for Wave Mode Identification in a Rotating Detonation.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://asmedigitalcollection.asme.org/thermalscienceapplication/article/15/6/061011/1160233/Use-of-Convolutional-Neural-Network-Image">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>15</prism:volume>
+                <dc:title>Journal of Thermal Science and Engineering Applications</dc:title>
+                <dc:identifier>DOI 10.1115/1.4062182</dc:identifier>
+                <prism:number>6</prism:number>
+                <dc:identifier>ISSN 1948-5085, 1948-5093</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johnson</foaf:surname>
+                        <foaf:givenName>Kristyn B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ferguson</foaf:surname>
+                        <foaf:givenName>Donald H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nix</foaf:surname>
+                        <foaf:givenName>Andrew C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4261"/>
+        <dc:title>Use of Convolutional Neural Network Image Classification and High-Speed Ion Probe Data Toward Real-Time Detonation Characterization in a Water-Cooled Rotating Detonation Engine</dc:title>
+        <dcterms:abstract>Abstract               As rotating detonation engines (RDEs) progress in maturity, the importance of monitoring advancements toward development of active control becomes more critical. Experimental RDE data processing at time scales which satisfy real-time diagnostics will likely require the use of machine learning. This study aims to develop and deploy a novel real-time monitoring technique capable of determining detonation wave number, direction, frequency, and individual wave speeds throughout experimental RDE operational windows. To do so, the diagnostic integrates image classification by a convolutional neural network (CNN) and ionization current signal analysis. Wave mode identification through single-image CNN classification bypasses the need to evaluate sequential images and offers instantaneous identification of the wave mode present in the RDE annulus. Real-time processing speeds are achieved due to low data volumes required by the methodology, namely one short-exposure image and a short window of sensor data to generate each diagnostic output. The diagnostic acquires live data using a modified experimental setup alongside Pylon and PyDAQmx libraries within a python data acquisition environment. Lab-deployed diagnostic results are presented across varying wave modes, operating conditions, and data quality, currently executed at 3–4 Hz with a variety of iteration speed optimization options to be considered as future work. These speeds exceed that of conventional techniques and offer a proven structure for real-time RDE monitoring. The demonstrated ability to analyze detonation wave presence and behavior during RDE operation will certainly play a vital role in the development of RDE active control, necessary for RDE technology maturation toward industrial integration.</dcterms:abstract>
+        <dc:date>2023-06-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://asmedigitalcollection.asme.org/thermalscienceapplication/article/15/6/061011/1160233/Use-of-Convolutional-Neural-Network-Image</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-08 02:45:00</dcterms:dateSubmitted>
+        <dc:rights>https://www.asme.org/publications-submissions/publishing-information/legal-policies</dc:rights>
+        <dc:description>Publisher: ASME International</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_4261">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4261/Johnson 等 - 2023 - Use of Convolutional Neural Network Image Classification and High-Speed Ion Probe Data Toward Real-T.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0894177718313943">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0894-1777"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bohon</foaf:surname>
+                        <foaf:givenName>M.D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bluemner</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Paschereit</foaf:surname>
+                        <foaf:givenName>C.O.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gutmark</foaf:surname>
+                        <foaf:givenName>E.J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4262"/>
+        <dc:title>High-speed imaging of wave modes in an RDC</dc:title>
+        <dc:date>04/2019</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0894177718313943</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-08 02:44:29</dcterms:dateSubmitted>
+        <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
+        <dc:description>Publisher: Elsevier BV</dc:description>
+        <bib:pages>28-37</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0894-1777">
+        <prism:volume>102</prism:volume>
+        <dc:title>Experimental Thermal and Fluid Science</dc:title>
+        <dc:identifier>DOI 10.1016/j.expthermflusci.2018.10.031</dc:identifier>
+        <dc:identifier>ISSN 0894-1777</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_4262">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4262/Bohon 等 - 2019 - High-speed imaging of wave modes in an RDC.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S1540748924004577">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:15407489"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Xutun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wen</foaf:surname>
+                        <foaf:givenName>Haocheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wen</foaf:surname>
+                        <foaf:givenName>Quan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Bing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4839"/>
+        <dc:title>Physics-informed recurrent super-resolution generative reconstruction in rotating detonation combustor</dc:title>
+        <dcterms:abstract>The high-resolution flow field information is crucial for understanding flow systems. Nevertheless, due to limitations in sensor technology and measurement methods, it is challenging to obtain high-resolution data in engineering applications. This study introduces a novel model called physics-informed recurrent generative adversarial network (PIRGAN) to obtain super-resolution results from low-resolution inputs, which is an inverse problem that is difficult to solve using traditional computational fluid dynamics (CFD) methods. The model integrates recurrent framework and embedding physical constraints into its architecture to perform superresolution generative reconstruction. During the generation process, this model calculates temporal derivatives based on low-resolution inputs and then updates the previous timestep’s results by temporal derivatives to obtain the current timestep’s results. The proposed PIRGAN model is demonstrated through its application to the reconstruction of flow fields in Rotating Detonation Combustors (RDC). Notably, PIRGAN successfully reconstructs detailed flow structure inside RDC, which is often indiscernible in low-resolution or interpolated results. Besides, the introduction of a recurrent framework offers the model’s ability to capture the temporal characteristics and handle noisy inputs. As a surrogate model that extends the measurement capabilities within reactive flow systems, the model introduced in this study holds noticeable engineering significance.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S1540748924004577</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-13 02:12:34</dcterms:dateSubmitted>
+        <bib:pages>105649</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:15407489">
+        <prism:volume>40</prism:volume>
+        <dc:title>Proceedings of the Combustion Institute</dc:title>
+        <dc:identifier>DOI 10.1016/j.proci.2024.105649</dc:identifier>
+        <prism:number>1-4</prism:number>
+        <dcterms:alternative>Proceedings of the Combustion Institute</dcterms:alternative>
+        <dc:identifier>ISSN 15407489</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_4839">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4839/Wang 等 - 2024 - Physics-informed recurrent super-resolution generative reconstruction in rotating detonation combust.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0010218025000641">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00102180"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sharma</foaf:surname>
+                        <foaf:givenName>Vansh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ullman</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Raman</foaf:surname>
+                        <foaf:givenName>Venkat</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4848"/>
+        <dc:title>A machine learning based approach for statistical analysis of detonation cells from soot foils</dc:title>
+        <dcterms:abstract>This study presents a novel algorithm based on machine learning (ML) for the precise segmentation and measurement of detonation cells from soot foil images, addressing the limitations of manual and primitive edge detection methods prevalent in the field. Using advances in cellular biology segmentation models, the proposed algorithm is designed to accurately extract cellular patterns without a training procedure or dataset, which is a significant challenge in detonation research. The algorithm’s performance was validated using a series of test cases that mimic experimental and numerical detonation studies. The results demonstrated consistent accuracy, with errors remaining within 10%, even in complex cases. The algorithm effectively captured key cell metrics such as cell area and span, revealing trends across different soot foil samples with uniform to highly irregular cellular structures. Although the model proved robust, challenges remain in segmenting and analyzing highly complex or irregular cellular patterns. This work highlights the broad applicability and potential of the algorithm to advance the understanding of detonation wave dynamics.</dcterms:abstract>
+        <dc:date>04/2025</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0010218025000641</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-22 07:00:03</dcterms:dateSubmitted>
+        <bib:pages>114026</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00102180">
+        <prism:volume>274</prism:volume>
+        <dc:title>Combustion and Flame</dc:title>
+        <dc:identifier>DOI 10.1016/j.combustflame.2025.114026</dc:identifier>
+        <dcterms:alternative>Combustion and Flame</dcterms:alternative>
+        <dc:identifier>ISSN 00102180</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_4848">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4848/Sharma 等 - 2025 - A machine learning based approach for statistical analysis of detonation cells from soot foils.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://arc.aiaa.org/doi/10.2514/1.B39287">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>40</prism:volume>
+                <dc:title>Journal of Propulsion and Power</dc:title>
+                <dc:identifier>DOI 10.2514/1.B39287</dc:identifier>
+                <prism:number>2</prism:number>
+                <dcterms:alternative>Journal of Propulsion and Power</dcterms:alternative>
+                <dc:identifier>ISSN 0748-4658, 1533-3876</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johnson</foaf:surname>
+                        <foaf:givenName>Kristyn B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ferguson</foaf:surname>
+                        <foaf:givenName>Don</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nix</foaf:surname>
+                        <foaf:givenName>Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4849"/>
+        <dc:title>Machine-Learning-Based Rotating Detonation Engine Diagnostics: Evaluation for Application in Experimental Facilities</dc:title>
+        <dcterms:abstract>Real-time monitoring of combustion behavior is a crucial step toward actively controlled rotating detonation engine (RDE) operation in laboratory and industrial environments. Various machine learning methods have been developed to advance diagnostic efficiencies from conventional postprocessing efforts to real-time methods. This work evaluates and compares conventional techniques alongside convolutional neural network (CNN) architectures trained in previous studies, including image classification, object detection, and time series classification, according to metrics affecting diagnostic feasibility, external applicability, and performance. Real-time, capable diagnostics are deployed and evaluated using an altered experimental setup. Image-based CNNs are applied to externally provided images to approximate dataset restrictions. Image classification using high-speed chemiluminescence images and time series classification using high-speed flame ionization and pressure measurements achieve classification speeds enabling real-time diagnostic capabilities, averaging laboratory-deployed diagnostic feedback rates of 4–5 Hz. Object detection achieves the most refined resolution of [Formula: see text] in postprocessing. Image and time series classification require the additional correlation of sensor data, extending their time-step resolutions to 80 ms. Comparisons show that no single diagnostic approach outperforms its competitors across all metrics. This finding justifies the need for a machine learning portfolio containing a host of networks to address specific needs throughout the RDE research community.</dcterms:abstract>
+        <dc:date>03/2024</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Machine-Learning-Based Rotating Detonation Engine Diagnostics</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arc.aiaa.org/doi/10.2514/1.B39287</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-22 07:00:01</dcterms:dateSubmitted>
+        <bib:pages>257-270</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_4849">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4849/Johnson 等 - 2024 - Machine-Learning-Based Rotating Detonation Engine Diagnostics Evaluation for Application in Experim.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.aip.org/pof/article/35/7/076109/2901969/Flow-field-reconstruction-in-rotating-detonation">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1070-6631,%201089-7666"/>
+        <link:link rdf:resource="#item_4850"/>
+        <dc:title>Flow-field reconstruction in rotating detonation combustor based on physics-informed neural network</dc:title>
+        <dcterms:abstract>The flow-field reconstruction of a rotating detonation combustor (RDC) is essential to understand the stability mechanism and performance of rotating detonation engines. This study embeds a reduced-order model of an RDC into a neural network (NN) to construct a physicsinformed neural network (PINN) to achieve the full-dimensional high-resolution reconstruction of the combustor flow field based on partially observed data. Additionally, the unobserved physical fields are extrapolated through the NN-embedded physical model. The influence of the residual point sampling strategy and observation point spatial-temporal sampling resolution on the reconstruction results are studied. As a surrogate model of the RDC, the PINN fills the gap that traditional computational fluid dynamics methods have difficulty solving, such as inverse problems, and has engineering value for the flow-field reconstruction of RDCs.</dcterms:abstract>
+        <dc:date>2023-07-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.aip.org/pof/article/35/7/076109/2901969/Flow-field-reconstruction-in-rotating-detonation</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-22 06:59:58</dcterms:dateSubmitted>
+        <bib:pages>076109</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1070-6631,%201089-7666">
+        <prism:volume>35</prism:volume>
+        <dc:title>Physics of Fluids</dc:title>
+        <dc:identifier>DOI 10.1063/5.0154979</dc:identifier>
+        <prism:number>7</prism:number>
+        <dc:identifier>ISSN 1070-6631, 1089-7666</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_4850">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4850/2023 - Flow-field reconstruction in rotating detonation combustor based on physics-informed neural network.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0010465525001213">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00104655"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Farcaş</foaf:surname>
+                        <foaf:givenName>Ionuţ-Gabriel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gundevia</foaf:surname>
+                        <foaf:givenName>Rayomand P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Munipalli</foaf:surname>
+                        <foaf:givenName>Ramakanth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Willcox</foaf:surname>
+                        <foaf:givenName>Karen E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4851"/>
+        <dc:title>Distributed computing for physics-based data-driven reduced modeling at scale: Application to a rotating detonation rocket engine</dc:title>
+        <dc:date>08/2025</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Distributed computing for physics-based data-driven reduced modeling at scale</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0010465525001213</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-22 06:59:55</dcterms:dateSubmitted>
+        <bib:pages>109619</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00104655">
+        <prism:volume>313</prism:volume>
+        <dc:title>Computer Physics Communications</dc:title>
+        <dc:identifier>DOI 10.1016/j.cpc.2025.109619</dc:identifier>
+        <dcterms:alternative>Computer Physics Communications</dcterms:alternative>
+        <dc:identifier>ISSN 00104655</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_4851">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4851/Farcaş 等 - 2025 - Distributed computing for physics-based data-driven reduced modeling at scale Application to a rota.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.aip.org/pof/article/33/9/091703/1030869/Data-driven-surrogates-of-rotating-detonation">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>33</prism:volume>
+                <dc:title>Physics of Fluids</dc:title>
+                <dc:identifier>DOI 10.1063/5.0063624</dc:identifier>
+                <prism:number>9</prism:number>
+                <dc:identifier>ISSN 1070-6631, 1089-7666</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Koch</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4852"/>
+        <dc:title>Data-driven surrogates of rotating detonation engine physics with neural ordinary differential equations and high-speed camera footage</dc:title>
+        <dcterms:abstract>Interacting multi-scale physics in the Rotating Detonation Engine (RDE) lead to diverse nonlinear dynamical behavior, including combustion wave mode-locking, modulation, and bifurcations. Here, surrogate models of the RDE physics, including combustion, injection, and mixing, are sought that can reproduce mode-locked combustion waves through their interactions. These surrogate models are constructed and trained within the context of neural ordinary differential equations evolving through the latent representation of the waves: the traveling wave coordinate n ¼ x ct þ a. It is shown that the multi-scale nature of the physics can be successfully separated and analyzed separately, providing valuable insight into the fundamental physical processes of the RDE.</dcterms:abstract>
+        <dc:date>2021-09-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.aip.org/pof/article/33/9/091703/1030869/Data-driven-surrogates-of-rotating-detonation</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-22 06:59:52</dcterms:dateSubmitted>
+        <bib:pages>091703</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_4852">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4852/Koch - 2021 - Data-driven surrogates of rotating detonation engine physics with neural ordinary differential equat.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-62410-711-5">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-62410-711-5</dc:identifier>
+                <dc:title>AIAA SCITECH 2024 Forum</dc:title>
+                <dc:identifier>DOI 10.2514/6.2024-2794</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Orlando, FL</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>American Institute of Aeronautics and Astronautics</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hemming</foaf:surname>
+                        <foaf:givenName>Michaela R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hill</foaf:surname>
+                        <foaf:givenName>Ruthie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hemming</foaf:surname>
+                        <foaf:givenName>Nathan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xu</foaf:surname>
+                        <foaf:givenName>Kunning G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4853"/>
+        <dc:title>Meta-Analysis of Experimental Rotating Detonation Engines for Performance Trends</dc:title>
+        <dc:date>2024-01-08</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arc.aiaa.org/doi/10.2514/6.2024-2794</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-22 06:59:50</dcterms:dateSubmitted>
+        <bib:presentedAt>
+            <bib:Conference>
+               <dc:title>AIAA SCITECH 2024 Forum</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_4853">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4853/Hemming 等 - 2024 - Meta-Analysis of Experimental Rotating Detonation Engines for Performance Trends.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.aip.org/pof/article/37/9/096118/3361720/Combustion-mode-time-series-prediction-in-rotating">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>37</prism:volume>
+                <dc:title>Physics of Fluids</dc:title>
+                <dc:identifier>DOI 10.1063/5.0281863</dc:identifier>
+                <prism:number>9</prism:number>
+                <dc:identifier>ISSN 1070-6631, 1089-7666</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Zidong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Xutun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wen</foaf:surname>
+                        <foaf:givenName>Haocheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Bing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mou</foaf:surname>
+                        <foaf:givenName>Honglin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ma</foaf:surname>
+                        <foaf:givenName>Guozheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4854"/>
+        <dc:title>Combustion mode time-series prediction in rotating detonation combustor based on predictor of encoder transformer</dc:title>
+        <dcterms:abstract>Achieving real-time prediction of combustion modes in rotating detonation combustor (RDC) is of great significance for the development of high-performance rotating detonation propulsion system. A novel neural network based on Transformer architecture is proposed in this study, namely, RDC–PET (Rotating Detonation Combustor–Predictor of Encoder Transformer), which predicts the combustion mode in the RDC. Experimental datasets were built with high-speed images of RDC under different operating conditions, where RP-3 aviation kerosene was used as the fuel and a binary oxygen–nitrogen mixture (40% oxygen by volume) was used as the oxidizer. The influence of different hyperparameters, including the number of encoder layers, input sequence length, and attention heads, on the model performance is investigated. Different embedding methods were applied to compare their effectiveness in predicting combustion modes of the RDC. The findings reveal that Physical Embedding, which utilizes an attention mechanism to capture the correlations between physical variables, enhances predictive accuracy. The prediction results for single-wave, counter-two-wave, and unstable combustion modes are analyzed in depth. Results show that RDC–PET accurately predicts the propagation behavior of detonation waves with different quantities under typical combustion modes of the RDC and captures the evolutionary processes such as wave collision, splitting, collapse, and merging. In summary, RDC–PET demonstrates excellent performance in predicting mode switch in RDC, thereby providing early warning of combustion instability in RDC and consequently allowing time for active control in engineering applications. RDC–PET has potential to serve as a general prediction model.</dcterms:abstract>
+        <dc:date>2025-09-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.aip.org/pof/article/37/9/096118/3361720/Combustion-mode-time-series-prediction-in-rotating</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-22 06:59:48</dcterms:dateSubmitted>
+        <bib:pages>096118</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_4854">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4854/Li 等 - 2025 - Combustion mode time-series prediction in rotating detonation combustor based on predictor of encode.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.aip.org/pof/article/36/5/056113/3292375/A-Bayesian-optimization-framework-for-the-control">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>36</prism:volume>
+                <dc:title>Physics of Fluids</dc:title>
+                <dc:identifier>DOI 10.1063/5.0207790</dc:identifier>
+                <prism:number>5</prism:number>
+                <dc:identifier>ISSN 1070-6631, 1089-7666</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Jun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shao</foaf:surname>
+                        <foaf:givenName>Changxiao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Lei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wen</foaf:surname>
+                        <foaf:givenName>Qizhe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Niewei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Zhi X.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Lei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>An</foaf:surname>
+                        <foaf:givenName>Qiang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jin</foaf:surname>
+                        <foaf:givenName>Tai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Luo</foaf:surname>
+                        <foaf:givenName>Kun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4855"/>
+        <dc:title>A Bayesian optimization framework for the control of combustion instability of a bluff-body stabilized combustor</dc:title>
+        <dcterms:abstract>Control of combustion instability for a realistic gas-turbine combustor is challenging. This work aims to establish an efficient numerical framework for optimization to improve the combustion stability of a bluff-body combustor. Large eddy simulations of the spray combustion process are conducted, and the experimental measurements are used to evaluate the numerical accuracy of the baseline case. The air preheating temperature, the Sauter mean diameter of fuel droplets, and the location of liquid fuel injection are regarded as input variables. The root mean square of pressure amplitude is regarded as an optimization objective. The Bayesian optimization framework is proposed that includes the sampling process, surrogate model, acquisition function, and genetic algorithm optimizer processes. It is found that PRMS can be reduced by 64% for the optimized case compared to the baseline case using only 17 sample evaluations. This work is promising as it provides an effective optimization framework for the development of next-generation gas-turbine combustors.</dcterms:abstract>
+        <dc:date>2024-05-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.aip.org/pof/article/36/5/056113/3292375/A-Bayesian-optimization-framework-for-the-control</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-22 06:59:46</dcterms:dateSubmitted>
+        <bib:pages>056113</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_4855">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4855/Yang 等 - 2024 - A Bayesian optimization framework for the control of combustion instability of a bluff-body stabiliz.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
